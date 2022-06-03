@@ -1,0 +1,23 @@
+body{
+    display: flex;
+}
+
+.removed{
+    color: gray;
+    text-decoration: line-through
+}
+ul, li{
+    list-style-type: none;
+}
+
+h2{
+    margin-left: 455px;
+}
+.barra{
+    margin-left: 385px;
+}
+
+.lista{
+    background-color: antiquewhite;
+    margin-left: 385px;
+}
